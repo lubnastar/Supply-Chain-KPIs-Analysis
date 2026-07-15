@@ -1,0 +1,101 @@
+Item_ID,Supplier,Order_Date,Promised_Lead_Time_Days,Promised_Delivery_Date,Actual_Lead_Time_Days,Actual_Delivery_Date,Ordered_Quantity,Received_Quantity,Defective_Units,Unit_Cost_USD,Total_Cost_USD,Warehouse_Location,On_Time,In_Full,OTIF,Defective_Rate_Order,Lead_Time_Variance
+ITEM-5023,Apex Group,2026-04-17,6,2026-04-23,3,2026-04-20,401,388,4,202.36,81146.36,Warehouse B - Jeddah,True,False,False,1.0309278350515463,-3
+ITEM-5005,Summit Logistics Solutions,2026-04-07,5,2026-04-12,4,2026-04-11,97,94,5,26.66,2586.02,Warehouse B - Jeddah,True,False,False,5.319148936170213,-1
+ITEM-5008,Global Supply Chain Corp,2026-01-19,6,2026-01-25,7,2026-01-26,80,74,4,98.33,7866.4,Warehouse A - Riyadh,False,False,False,5.405405405405405,1
+ITEM-5035,Prime Industries Ltd,2026-04-21,6,2026-04-27,5,2026-04-26,393,340,13,37.2,14619.6,Warehouse B - Jeddah,True,False,False,3.823529411764706,-1
+ITEM-5027,Summit Logistics Solutions,2026-03-17,5,2026-03-22,4,2026-03-21,197,193,10,225.5,44423.5,Warehouse A - Riyadh,True,False,False,5.181347150259067,-1
+ITEM-5006,Global Supply Chain Corp,2026-01-25,6,2026-01-31,8,2026-02-02,309,271,13,165.07,51006.63,Warehouse A - Riyadh,False,False,False,4.797047970479705,2
+ITEM-5030,Apex Group,2026-04-17,6,2026-04-23,7,2026-04-24,483,417,5,91.39,44141.37,Warehouse B - Jeddah,False,False,False,1.1990407673860912,1
+ITEM-5023,Summit Logistics Solutions,2026-05-06,5,2026-05-11,3,2026-05-09,440,424,23,202.36,89038.4,Warehouse B - Jeddah,True,False,False,5.4245283018867925,-2
+ITEM-5027,Global Supply Chain Corp,2026-03-20,6,2026-03-26,7,2026-03-27,442,422,14,225.5,99671.0,Warehouse C - Dammam,False,False,False,3.3175355450236967,1
+ITEM-5035,Summit Logistics Solutions,2026-04-02,5,2026-04-07,4,2026-04-06,361,359,17,37.2,13429.2,Warehouse B - Jeddah,True,False,False,4.735376044568245,-1
+ITEM-5001,Apex Group,2026-05-01,6,2026-05-07,5,2026-05-06,189,177,10,24.02,4539.78,Warehouse B - Jeddah,True,False,False,5.649717514124294,-1
+ITEM-5021,Prime Industries Ltd,2026-04-14,6,2026-04-20,4,2026-04-18,53,46,1,86.37,4577.61,Warehouse A - Riyadh,True,False,False,2.1739130434782608,-2
+ITEM-5036,Nexus Commercial Holdings,2026-04-18,10,2026-04-28,7,2026-04-25,85,61,0,89.95,7645.75,Warehouse A - Riyadh,True,False,False,0.0,-3
+ITEM-5005,Global Supply Chain Corp,2026-06-05,6,2026-06-11,6,2026-06-11,160,143,2,26.66,4265.6,Warehouse A - Riyadh,True,False,False,1.3986013986013985,0
+ITEM-5021,Apex Group,2026-05-15,6,2026-05-21,5,2026-05-20,239,212,5,86.37,20642.43,Warehouse A - Riyadh,True,False,False,2.358490566037736,-1
+ITEM-5036,Global Supply Chain Corp,2026-06-03,6,2026-06-09,4,2026-06-07,93,89,4,89.95,8365.35,Warehouse C - Dammam,True,False,False,4.49438202247191,-2
+ITEM-5010,Global Supply Chain Corp,2026-02-26,6,2026-03-04,5,2026-03-03,75,70,4,191.86,14389.5,Warehouse A - Riyadh,True,False,False,5.714285714285714,-1
+ITEM-5028,Nexus Commercial Holdings,2026-01-06,10,2026-01-16,13,2026-01-19,298,244,0,168.66,50260.68,Warehouse C - Dammam,False,False,False,0.0,3
+ITEM-5017,Apex Group,2026-04-02,6,2026-04-08,5,2026-04-07,436,399,12,231.58,100968.88,Warehouse B - Jeddah,True,False,False,3.007518796992481,-1
+ITEM-5027,Summit Logistics Solutions,2026-06-11,5,2026-06-16,5,2026-06-16,195,191,5,225.5,43972.5,Warehouse B - Jeddah,True,False,False,2.6178010471204187,0
+ITEM-5033,Prime Industries Ltd,2026-02-11,6,2026-02-17,7,2026-02-18,73,64,1,127.0,9271.0,Warehouse B - Jeddah,False,False,False,1.5625,1
+ITEM-5003,Summit Logistics Solutions,2026-05-14,5,2026-05-19,3,2026-05-17,154,148,1,38.14,5873.56,Warehouse B - Jeddah,True,False,False,0.6756756756756757,-2
+ITEM-5008,Prime Industries Ltd,2026-01-25,6,2026-01-31,3,2026-01-28,198,176,4,98.33,19469.34,Warehouse A - Riyadh,True,False,False,2.272727272727273,-3
+ITEM-5031,Nexus Commercial Holdings,2026-06-14,10,2026-06-24,10,2026-06-24,139,100,6,187.74,26095.86,Warehouse A - Riyadh,True,False,False,6.0,0
+ITEM-5032,Global Supply Chain Corp,2026-03-03,6,2026-03-09,5,2026-03-08,476,445,9,199.72,95066.72,Warehouse B - Jeddah,True,False,False,2.0224719101123596,-1
+ITEM-5004,Nexus Commercial Holdings,2026-01-26,10,2026-02-05,13,2026-02-08,491,416,13,149.44,73375.04,Warehouse A - Riyadh,False,False,False,3.125,3
+ITEM-5001,Nexus Commercial Holdings,2026-04-03,10,2026-04-13,13,2026-04-16,89,77,3,24.02,2137.78,Warehouse A - Riyadh,False,False,False,3.896103896103896,3
+ITEM-5036,Nexus Commercial Holdings,2026-02-22,10,2026-03-04,11,2026-03-05,413,341,7,89.95,37149.35,Warehouse B - Jeddah,False,False,False,2.0527859237536656,1
+ITEM-5007,Nexus Commercial Holdings,2026-03-04,10,2026-03-14,9,2026-03-13,60,53,3,202.28,12136.8,Warehouse A - Riyadh,True,False,False,5.660377358490567,-1
+ITEM-5039,Nexus Commercial Holdings,2026-06-23,10,2026-07-03,12,2026-07-05,475,398,23,132.44,62909.0,Warehouse C - Dammam,False,False,False,5.778894472361809,2
+ITEM-5005,Nexus Commercial Holdings,2026-01-19,10,2026-01-29,13,2026-02-01,482,347,5,26.66,12850.12,Warehouse C - Dammam,False,False,False,1.440922190201729,3
+ITEM-5037,Nexus Commercial Holdings,2026-06-28,10,2026-07-08,11,2026-07-09,318,227,7,139.73,44434.14,Warehouse C - Dammam,False,False,False,3.0837004405286343,1
+ITEM-5021,Apex Group,2026-02-24,6,2026-03-02,3,2026-02-27,220,209,4,86.37,19001.4,Warehouse A - Riyadh,True,False,False,1.9138755980861244,-3
+ITEM-5032,Summit Logistics Solutions,2026-04-22,5,2026-04-27,4,2026-04-26,321,313,5,199.72,64110.12,Warehouse A - Riyadh,True,False,False,1.5974440894568689,-1
+ITEM-5022,Apex Group,2026-02-28,6,2026-03-06,5,2026-03-05,170,146,0,115.74,19675.8,Warehouse C - Dammam,True,False,False,0.0,-1
+ITEM-5012,Apex Group,2026-03-09,6,2026-03-15,8,2026-03-17,358,311,11,14.41,5158.78,Warehouse A - Riyadh,False,False,False,3.536977491961415,2
+ITEM-5004,Apex Group,2026-05-15,6,2026-05-21,6,2026-05-21,445,414,12,149.44,66500.8,Warehouse C - Dammam,True,False,False,2.898550724637681,0
+ITEM-5036,Global Supply Chain Corp,2026-02-24,6,2026-03-02,7,2026-03-03,279,261,1,89.95,25096.05,Warehouse C - Dammam,False,False,False,0.38314176245210724,1
+ITEM-5039,Prime Industries Ltd,2026-05-19,6,2026-05-25,5,2026-05-24,492,480,8,132.44,65160.48,Warehouse C - Dammam,True,False,False,1.6666666666666667,-1
+ITEM-5009,Nexus Commercial Holdings,2026-01-25,10,2026-02-04,11,2026-02-05,84,66,4,35.19,2955.96,Warehouse A - Riyadh,False,False,False,6.0606060606060606,1
+ITEM-5017,Global Supply Chain Corp,2026-03-18,6,2026-03-24,3,2026-03-21,78,69,1,231.58,18063.24,Warehouse A - Riyadh,True,False,False,1.4492753623188406,-3
+ITEM-5019,Nexus Commercial Holdings,2026-06-20,10,2026-06-30,12,2026-07-02,281,198,2,15.92,4473.52,Warehouse C - Dammam,False,False,False,1.0101010101010102,2
+ITEM-5018,Summit Logistics Solutions,2026-01-22,5,2026-01-27,2,2026-01-24,380,377,11,168.38,63984.4,Warehouse A - Riyadh,True,False,False,2.9177718832891246,-3
+ITEM-5039,Global Supply Chain Corp,2026-05-16,6,2026-05-22,7,2026-05-23,309,278,16,132.44,40923.96,Warehouse A - Riyadh,False,False,False,5.755395683453238,1
+ITEM-5035,Summit Logistics Solutions,2026-04-03,5,2026-04-08,3,2026-04-06,280,278,4,37.2,10416.0,Warehouse B - Jeddah,True,False,False,1.4388489208633095,-2
+ITEM-5020,Global Supply Chain Corp,2026-03-05,6,2026-03-11,3,2026-03-08,293,268,11,87.22,25555.46,Warehouse C - Dammam,True,False,False,4.104477611940299,-3
+ITEM-5028,Summit Logistics Solutions,2026-01-18,5,2026-01-23,4,2026-01-22,465,462,21,168.66,78426.9,Warehouse B - Jeddah,True,False,False,4.545454545454546,-1
+ITEM-5005,Global Supply Chain Corp,2026-01-13,6,2026-01-19,4,2026-01-17,380,331,5,26.66,10130.8,Warehouse B - Jeddah,True,False,False,1.5105740181268883,-2
+ITEM-5028,Nexus Commercial Holdings,2026-04-04,10,2026-04-14,9,2026-04-13,318,255,11,168.66,53633.88,Warehouse A - Riyadh,True,False,False,4.313725490196078,-1
+ITEM-5023,Prime Industries Ltd,2026-02-26,6,2026-03-04,5,2026-03-03,194,174,4,202.36,39257.84,Warehouse B - Jeddah,True,False,False,2.2988505747126435,-1
+ITEM-5038,Summit Logistics Solutions,2026-05-14,5,2026-05-19,4,2026-05-18,454,445,17,136.16,61816.64,Warehouse C - Dammam,True,False,False,3.8202247191011236,-1
+ITEM-5004,Prime Industries Ltd,2026-03-29,6,2026-04-04,6,2026-04-04,98,90,3,149.44,14645.12,Warehouse A - Riyadh,True,False,False,3.3333333333333335,0
+ITEM-5018,Prime Industries Ltd,2026-04-06,6,2026-04-12,7,2026-04-13,420,403,13,168.38,70719.6,Warehouse B - Jeddah,False,False,False,3.225806451612903,1
+ITEM-5009,Prime Industries Ltd,2026-04-25,6,2026-05-01,4,2026-04-29,91,84,0,35.19,3202.29,Warehouse C - Dammam,True,False,False,0.0,-2
+ITEM-5022,Prime Industries Ltd,2026-06-25,6,2026-07-01,6,2026-07-01,385,362,18,115.74,44559.9,Warehouse B - Jeddah,True,False,False,4.972375690607735,0
+ITEM-5008,Global Supply Chain Corp,2026-01-12,6,2026-01-18,5,2026-01-17,412,400,8,98.33,40511.96,Warehouse B - Jeddah,True,False,False,2.0,-1
+ITEM-5035,Nexus Commercial Holdings,2026-06-28,10,2026-07-08,9,2026-07-07,379,325,4,37.2,14098.8,Warehouse B - Jeddah,True,False,False,1.2307692307692308,-1
+ITEM-5033,Summit Logistics Solutions,2026-02-08,5,2026-02-13,4,2026-02-12,380,373,1,127.0,48260.0,Warehouse A - Riyadh,True,False,False,0.2680965147453083,-1
+ITEM-5001,Prime Industries Ltd,2026-03-26,6,2026-04-01,4,2026-03-30,208,181,6,24.02,4996.16,Warehouse A - Riyadh,True,False,False,3.314917127071823,-2
+ITEM-5021,Nexus Commercial Holdings,2026-06-17,10,2026-06-27,9,2026-06-26,148,110,4,86.37,12782.76,Warehouse C - Dammam,True,False,False,3.6363636363636362,-1
+ITEM-5009,Summit Logistics Solutions,2026-02-23,5,2026-02-28,2,2026-02-25,201,199,0,35.19,7073.19,Warehouse C - Dammam,True,False,False,0.0,-3
+ITEM-5032,Global Supply Chain Corp,2026-04-18,6,2026-04-24,7,2026-04-25,477,451,14,199.72,95266.44,Warehouse C - Dammam,False,False,False,3.1042128603104215,1
+ITEM-5002,Prime Industries Ltd,2026-05-16,6,2026-05-22,4,2026-05-20,498,472,6,236.71,117881.58,Warehouse C - Dammam,True,False,False,1.2711864406779663,-2
+ITEM-5038,Nexus Commercial Holdings,2026-01-06,10,2026-01-16,9,2026-01-15,128,93,4,136.16,17428.48,Warehouse B - Jeddah,True,False,False,4.301075268817205,-1
+ITEM-5028,Summit Logistics Solutions,2026-05-18,5,2026-05-23,3,2026-05-21,260,251,3,168.66,43851.6,Warehouse B - Jeddah,True,False,False,1.1952191235059761,-2
+ITEM-5028,Global Supply Chain Corp,2026-02-27,6,2026-03-05,6,2026-03-05,195,184,8,168.66,32888.7,Warehouse B - Jeddah,True,False,False,4.3478260869565215,0
+ITEM-5014,Global Supply Chain Corp,2026-04-20,6,2026-04-26,6,2026-04-26,172,153,4,70.82,12181.04,Warehouse B - Jeddah,True,False,False,2.6143790849673203,0
+ITEM-5012,Prime Industries Ltd,2026-01-08,6,2026-01-14,6,2026-01-14,397,386,22,14.41,5720.77,Warehouse B - Jeddah,True,False,False,5.699481865284974,0
+ITEM-5029,Prime Industries Ltd,2026-02-27,6,2026-03-05,7,2026-03-06,448,403,3,111.42,49916.16,Warehouse B - Jeddah,False,False,False,0.7444168734491315,1
+ITEM-5026,Apex Group,2026-05-30,6,2026-06-05,7,2026-06-06,468,409,8,198.4,92851.2,Warehouse C - Dammam,False,False,False,1.9559902200488997,1
+ITEM-5008,Prime Industries Ltd,2026-02-17,6,2026-02-23,5,2026-02-22,76,70,0,98.33,7473.08,Warehouse A - Riyadh,True,False,False,0.0,-1
+ITEM-5035,Summit Logistics Solutions,2026-06-15,5,2026-06-20,2,2026-06-17,414,410,23,37.2,15400.8,Warehouse A - Riyadh,True,False,False,5.609756097560976,-3
+ITEM-5018,Summit Logistics Solutions,2026-01-18,5,2026-01-23,5,2026-01-23,440,421,22,168.38,74087.2,Warehouse A - Riyadh,True,False,False,5.225653206650831,0
+ITEM-5032,Apex Group,2026-04-09,6,2026-04-15,4,2026-04-13,475,430,7,199.72,94867.0,Warehouse B - Jeddah,True,False,False,1.627906976744186,-2
+ITEM-5028,Prime Industries Ltd,2026-02-21,6,2026-02-27,6,2026-02-27,63,56,2,168.66,10625.58,Warehouse A - Riyadh,True,False,False,3.571428571428571,0
+ITEM-5032,Prime Industries Ltd,2026-01-19,6,2026-01-25,3,2026-01-22,170,153,8,199.72,33952.4,Warehouse A - Riyadh,True,False,False,5.228758169934641,-3
+ITEM-5023,Apex Group,2026-02-13,6,2026-02-19,3,2026-02-16,64,57,2,202.36,12951.04,Warehouse B - Jeddah,True,False,False,3.508771929824561,-3
+ITEM-5021,Apex Group,2026-03-27,6,2026-04-02,6,2026-04-02,120,102,3,86.37,10364.4,Warehouse A - Riyadh,True,False,False,2.941176470588235,0
+ITEM-5008,Nexus Commercial Holdings,2026-04-25,10,2026-05-05,8,2026-05-03,279,229,3,98.33,27434.07,Warehouse B - Jeddah,True,False,False,1.3100436681222707,-2
+ITEM-5001,Prime Industries Ltd,2026-02-26,6,2026-03-04,7,2026-03-05,160,153,1,24.02,3843.2,Warehouse A - Riyadh,False,False,False,0.6535947712418301,1
+ITEM-5038,Global Supply Chain Corp,2026-01-28,6,2026-02-03,5,2026-02-02,266,229,12,136.16,36218.56,Warehouse A - Riyadh,True,False,False,5.240174672489083,-1
+ITEM-5015,Prime Industries Ltd,2026-06-07,6,2026-06-13,6,2026-06-13,112,95,5,65.66,7353.92,Warehouse C - Dammam,True,False,False,5.263157894736842,0
+ITEM-5039,Nexus Commercial Holdings,2026-05-08,10,2026-05-18,14,2026-05-22,82,59,2,132.44,10860.08,Warehouse A - Riyadh,False,False,False,3.389830508474576,4
+ITEM-5038,Global Supply Chain Corp,2026-02-14,6,2026-02-20,7,2026-02-21,58,54,1,136.16,7897.28,Warehouse A - Riyadh,False,False,False,1.8518518518518516,1
+ITEM-5015,Apex Group,2026-06-10,6,2026-06-16,7,2026-06-17,199,180,4,65.66,13066.34,Warehouse B - Jeddah,False,False,False,2.2222222222222223,1
+ITEM-5022,Apex Group,2026-01-19,6,2026-01-25,8,2026-01-27,342,309,13,115.74,39583.08,Warehouse B - Jeddah,False,False,False,4.207119741100324,2
+ITEM-5005,Global Supply Chain Corp,2026-02-18,6,2026-02-24,7,2026-02-25,234,200,11,26.66,6238.44,Warehouse A - Riyadh,False,False,False,5.5,1
+ITEM-5034,Global Supply Chain Corp,2026-03-10,6,2026-03-16,7,2026-03-17,452,442,24,27.4,12384.8,Warehouse B - Jeddah,False,False,False,5.429864253393665,1
+ITEM-5001,Nexus Commercial Holdings,2026-04-03,10,2026-04-13,13,2026-04-16,497,394,18,24.02,11937.94,Warehouse A - Riyadh,False,False,False,4.568527918781726,3
+ITEM-5023,Prime Industries Ltd,2026-03-16,6,2026-03-22,3,2026-03-19,432,368,14,202.36,87419.52,Warehouse A - Riyadh,True,False,False,3.804347826086957,-3
+ITEM-5022,Apex Group,2026-01-13,6,2026-01-19,3,2026-01-16,425,397,2,115.74,49189.5,Warehouse B - Jeddah,True,False,False,0.5037783375314862,-3
+ITEM-5037,Prime Industries Ltd,2026-04-02,6,2026-04-08,7,2026-04-09,118,100,1,139.73,16488.14,Warehouse B - Jeddah,False,False,False,1.0,1
+ITEM-5021,Apex Group,2026-05-13,6,2026-05-19,6,2026-05-19,475,451,24,86.37,41025.75,Warehouse B - Jeddah,True,False,False,5.321507760532151,0
+ITEM-5030,Apex Group,2026-05-20,6,2026-05-26,8,2026-05-28,465,403,15,91.39,42496.35,Warehouse B - Jeddah,False,False,False,3.722084367245657,2
+ITEM-5029,Summit Logistics Solutions,2026-03-08,5,2026-03-13,3,2026-03-11,200,192,0,111.42,22284.0,Warehouse C - Dammam,True,False,False,0.0,-2
+ITEM-5002,Prime Industries Ltd,2026-05-23,6,2026-05-29,7,2026-05-30,208,190,1,236.71,49235.68,Warehouse B - Jeddah,False,False,False,0.5263157894736842,1
+ITEM-5030,Prime Industries Ltd,2026-03-26,6,2026-04-01,4,2026-03-30,68,64,3,91.39,6214.52,Warehouse A - Riyadh,True,False,False,4.6875,-2
+ITEM-5018,Prime Industries Ltd,2026-05-20,6,2026-05-26,8,2026-05-28,491,467,0,168.38,82674.58,Warehouse B - Jeddah,False,False,False,0.0,2
+ITEM-5021,Prime Industries Ltd,2026-06-16,6,2026-06-22,6,2026-06-22,113,107,1,86.37,9759.81,Warehouse A - Riyadh,True,False,False,0.9345794392523363,0
+ITEM-5025,Nexus Commercial Holdings,2026-06-16,10,2026-06-26,9,2026-06-25,247,189,6,81.02,20011.94,Warehouse A - Riyadh,True,False,False,3.1746031746031744,-1
