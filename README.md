@@ -2,6 +2,9 @@
 
 ## Project Goal
 This project aims to measure supplier and warehouse performance by calculating a set of key performance indicators (KPIs) commonly used in supply chain management. The analysis helps in understanding and optimizing the supply chain operations.
+## Data Source
+The analysis utilizes the "supply_chain_data.csv" dataset.
+note that the real-world data has been anonymized and synthesized to protect privacy and confidentiality.
 
 ## Key Performance Indicators (KPIs)
 The following KPIs are calculated in this analysis:
